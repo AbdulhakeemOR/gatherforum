@@ -1,0 +1,10 @@
+window.GATHER_SESSIONS = [
+  {id:'first-words',day:1,time:'09:30',title:'Writing the First 100 Words',track:'Writing',speaker:'A.K.',description:'Turn a blank page into a beginning worth reading. Explore opening lines, find your angle, and draft the first 100 words of a story of your own.'},
+  {id:'pitching',day:1,time:'11:00',title:'Pitching to Busy Editors',track:'Media & PR',speaker:'S.T.',description:'Find the heart of your story and make a concise pitch. Practice a subject line, a clear hook, and a useful answer to “why now?”'},
+  {id:'briefs',day:1,time:'13:30',title:'One-Page Briefs That Get Read',track:'Strategy',speaker:'A.K.',description:'Give your next project a clearer starting point. Shape an audience, objective, key message, and next step into one practical page.'},
+  {id:'design',day:1,time:'15:00',title:'Design for Non-Designers',track:'Design',speaker:'M.O.',description:'Use hierarchy, spacing, and contrast to make your message easier to understand. Bring an idea and try a simple visual transformation.'},
+  {id:'pressure',day:2,time:'09:30',title:'Messaging Under Pressure',track:'Media & PR',speaker:'S.T.',description:'Practice staying calm and clear when the questions get difficult. Build a short message, acknowledge uncertainty, and choose your next words with care.'},
+  {id:'numbers',day:2,time:'11:00',title:'Tell It with Numbers',track:'Design',speaker:'M.O.',description:'Find the human story inside a set of numbers. Choose a useful comparison and sketch a visual that makes the point without adding noise.'},
+  {id:'video',day:2,time:'13:30',title:'Video in Sixty Seconds',track:'Storytelling',speaker:'S.T.',description:'Give a small story a strong structure. Plan a hook, a middle, and a memorable ending in a simple sixty-second video storyboard.'},
+  {id:'drafts',day:2,time:'15:00',title:'Reviewing Each Other’s Drafts',track:'Writing',speaker:'A.K.',description:'Trade perspectives and learn to give specific, useful feedback. Practice a supportive review and leave with a clear next step for your draft.'}
+];
